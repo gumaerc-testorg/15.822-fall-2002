@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 31a60fab-3617-df57-846e-46b6da0a8858
 ---
@@ -30,7 +34,7 @@ Files
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1))
+({{% resource_link fa5ae8a4-75c0-4e1b-ad92-6d22653774f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Introduction
 Conjoint Basics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2))
+({{% resource_link c131d14a-b549-77e0-aa21-19690d40569d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +58,7 @@ Conjoint Basics
 Creating a Survey
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture3))
+({{% resource_link 7d96d5a6-2c4c-4947-aa1c-eecd061884d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +70,7 @@ Creating a Survey
 Cluster Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture4))
+({{% resource_link 4df37296-b200-1de7-76d6-ff31cde89f73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +118,7 @@ John Wax Case and Factor Analysis
 Perceptual Maps
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture8))
+({{% resource_link 2c4c3a40-2a5d-f6c0-1a0a-edd044735c1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
