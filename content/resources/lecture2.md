@@ -5,6 +5,7 @@ file: /courses/15-822-strategic-marketing-measurement-fall-2002/c131d14ab54977e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture2.pdf
 uid: c131d14a-b549-77e0-aa21-19690d40569d
 ---
 Conjoint Basics
-

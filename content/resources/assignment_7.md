@@ -5,6 +5,7 @@ file: /courses/15-822-strategic-marketing-measurement-fall-2002/8a9904f05420a53e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment_7.pdf
 uid: 8a9904f0-5420-a53e-061a-80d7b1e7d82a
 ---
 Assignment 7
-
