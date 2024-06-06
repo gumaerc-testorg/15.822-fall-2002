@@ -4,6 +4,7 @@ description: 'SIM Case: Cluster Analysis Detects Three Groups (segments) of Bran
 
   Perceptual Maps'
 file: /courses/15-822-strategic-marketing-measurement-fall-2002/2c4c3a402a5df6c01a0aedd044735c1f_lecture8.pdf
+file_size: 97667
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
