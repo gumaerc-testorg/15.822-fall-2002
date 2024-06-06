@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-822-strategic-marketing-measurement-fall-2002/5c7319e4eb2d3f0bc30a7f1546ef52d1_assignment_2.pdf
+file_size: 22141
 file_type: application/pdf
 learning_resource_types:
 - Assignments
