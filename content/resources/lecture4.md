@@ -4,6 +4,7 @@ description: 'Segmentation: 3 ways to go
 
   Cluster Analysis'
 file: /courses/15-822-strategic-marketing-measurement-fall-2002/4df37296b2001de776d6ff31cde89f73_lecture4.pdf
+file_size: 100841
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
