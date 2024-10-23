@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Creating a survey
-file: /courses/15-822-strategic-marketing-measurement-fall-2002/7d96d5a62c4c4947aa1ceecd061884d0_lecture3.pdf
+file: /ol-ocw-studio-app/courses/15-822-strategic-marketing-measurement-fall-2002/7d96d5a62c4c4947aa1ceecd061884d0_lecture3.pdf
 file_size: 111847
 file_type: application/pdf
 learning_resource_types:
