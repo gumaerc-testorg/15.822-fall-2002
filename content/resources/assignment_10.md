@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment 10
-file: /courses/15-822-strategic-marketing-measurement-fall-2002/394c4cf1959328f0e2d3a0c5da7b5cf8_assignment_10.pdf
+file: /ol-ocw-studio-app/courses/15-822-strategic-marketing-measurement-fall-2002/394c4cf1959328f0e2d3a0c5da7b5cf8_assignment_10.pdf
 file_size: 29206
 file_type: application/pdf
 learning_resource_types:
