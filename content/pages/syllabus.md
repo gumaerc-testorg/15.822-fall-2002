@@ -24,13 +24,13 @@ Software
 
 The data analysis will be done with the JMP program. With respect to the software, there are three options:
 
-1.  Buy the complete JMP 5 package. The website for ordering and other info is: [http://www.jmp.com/software/](http://www.jmp.com/software/).
+1.  Buy the complete JMP 5 package. The website for ordering and other info is: {{% resource_link "d18d868d-1f2a-40b5-b727-07147fa4f51a" "http://www.jmp.com/software/" %}}.
     
     You can download a free demo version of JMP 5, which is disabled in some ways (you can't save files for example).
     
 2.  Compromise alternative - there is a baby JMP (called JMP-IN). It has most (90%) of the data analysis capability that we use in this class, but it lacks two critical modules. The first one is "cluster analysis" which is a key tool for discovering segments in survey data; the second is "design of experiments" module, which will be important to those projects that do a 'conjoint analysis' exercise.
     
-    More information on JMP-IN is available at: [http://www.jmp.com/](http://www.jmp.com/).
+    More information on JMP-IN is available at: {{% resource_link "9075b555-e330-40dd-ba0f-b4e496d405c2" "http://www.jmp.com/" %}}.
     
 3.  If you are already familiar with a different package (e.g., SPSS, SYSTAT, SAS), feel free to use it (but make sure it has factor analysis and cluster analysis).
     
